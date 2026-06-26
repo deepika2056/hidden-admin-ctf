@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/64b9b5e8-b6f1-4d0a-8c86-b5995ad686f7
+
 # Hidden Admin Portal
 
 ## Challenge Overview
